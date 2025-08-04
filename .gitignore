@@ -6,8 +6,6 @@ __pycache__/
 *.pyc
 
 
-
-
 .vscode/
 
 # Environment variables (optional)
